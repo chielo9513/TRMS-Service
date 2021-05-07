@@ -1,0 +1,8 @@
+package org.atouma.beans;
+
+public enum Status {
+		SUBMITTED, SUPER_NEEDS_INFO, SUPER_APPROVE, 
+		DHEAD_NEEDS_INFO, DEPT_HEAD_APPROVED, BENCO_NEEDS_INFO,
+		PENDING, AWARDED
+}
+
